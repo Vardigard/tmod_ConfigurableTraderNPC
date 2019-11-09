@@ -1,0 +1,3 @@
+displayName = Configurable Trader NPC
+author = Vardigard
+version = 0.1
